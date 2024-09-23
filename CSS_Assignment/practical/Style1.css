@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-section
+{
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    background-color: #F6F7F9;
+    padding: 20px;
+}
+
+.layout1-bg
+{
+    height: 270px;
+    width: 350px;
+    background-color: white;
+}
+.layout1-txt
+{
+    height: 150px;
+    width: 350px;
+    background-color: #55595C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layout1-txt>h4
+{
+    color: white;
+    text-align: center;
+}
+.para-1
+{
+    text-align: start;
+    padding: 10px;
+
+}
+.btn1
+{
+    padding: 10px;
+}
+.btn1>button{
+    font-size: 12px;
+    height: 20px;
+    width: 50px;
+    background-color: white;
+    border: 2px solid #55595C;
+    border-radius: 2px;
+}
+button>a{
+    text-decoration: none;
+    color: black;
+}
+/* box-2 */
+.layout2-bg
+{
+    height: 270px;
+    width: 350px;
+    background-color: white;
+}
+.layout2-txt
+{
+    height: 150px;
+    width: 350px;
+    background-color: #55595C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layout2-txt>h4
+{
+    color: white;
+    text-align: center;
+}
+.para-2
+{
+    text-align: start;
+    padding: 10px;
+
+}
+.btn2
+{
+    padding: 10px;
+}
+.btn2>button{
+    font-size: 12px;
+    height: 20px;
+    width: 50px;
+    background-color: white;
+    border: 2px solid #55595C;
+    border-radius: 2px;
+}
+/* box-3 */
+.layout3-bg
+{
+    height: 270px;
+    width: 350px;
+    background-color: white;
+}
+.layout3-txt
+{
+    height: 150px;
+    width: 350px;
+    background-color: #55595C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layout3-txt>h4
+{
+    color: white;
+    text-align: center;
+}
+.para-3
+{
+    text-align: start;
+    padding: 10px;
+
+}
+.btn3
+{
+    padding: 10px;
+}
+.btn3>button{
+    font-size: 12px;
+    height: 20px;
+    width: 50px;
+    background-color: white;
+    border: 2px solid #55595C;
+    border-radius: 2px;
+}
+/* box-4 */
+.layout4-bg
+{
+    height: 270px;
+    width: 350px;
+    background-color: white;
+}
+.layout4-txt
+{
+    height: 150px;
+    width: 350px;
+    background-color: #55595C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layout4-txt>h4
+{
+    color: white;
+    text-align: center;
+}
+.para-4
+{
+    text-align: start;
+    padding: 10px;
+
+}
+.btn4
+{
+    padding: 10px;
+}
+.btn4>button{
+    font-size: 12px;
+    height: 20px;
+    width: 50px;
+    background-color: white;
+    border: 2px solid #55595C;
+    border-radius: 2px;
+}
+/* box-5 */
+.layout5-bg
+{
+    height: 270px;
+    width: 350px;
+    background-color: white;
+}
+.layout5-txt
+{
+    height: 150px;
+    width: 350px;
+    background-color: #55595C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layout5-txt>h4
+{
+    color: white;
+    text-align: center;
+}
+.para-5
+{
+    text-align: start;
+    padding: 10px;
+
+}
+.btn5
+{
+    padding: 10px;
+}
+.btn5>button{
+    font-size: 12px;
+    height: 20px;
+    width: 50px;
+    background-color: white;
+    border: 2px solid #55595C;
+    border-radius: 2px;
+}
+/* box-6 */
+.layout6-bg
+{
+    height: 270px;
+    width: 350px;
+    background-color: white;
+}
+.layout6-txt
+{
+    height: 150px;
+    width: 350px;
+    background-color: #55595C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layout6-txt>h4
+{
+    color: white;
+    text-align: center;
+}
+.para-6
+{
+    text-align: start;
+    padding: 10px;
+
+}
+.btn6
+{
+    padding: 10px;
+}
+.btn6>button{
+    font-size: 12px;
+    height: 20px;
+    width: 50px;
+    background-color: white;
+    border: 2px solid #55595C;
+    border-radius: 2px;
+}
